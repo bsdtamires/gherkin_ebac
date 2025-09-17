@@ -15,8 +15,8 @@
 
             Exemplos:
             | username                  | password    | mensagem                              |
-            | joao@ebac.com.br          | senha@123   | Redirecionado para a tela de checkout |
-            | maria@ebac.com.br         | senha@456   | Redirecionado para a tela de checkout |
+            | joao@ebac.com.br          | senha@123   | "Olá Joao"                            |
+            | maria@ebac.com.br         | senha@456   | "Olá Maria"                           |
             | joao@ebac.com.br          | senhaerrada | Usuário ou senha inválidos            |
             | usuarioerrado@ebac.com.br | senha@123   | Usuário ou senha inválidos            |
             |                           | senha@123   | Usuário ou senha inválidos            |
