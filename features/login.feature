@@ -1,3 +1,5 @@
+            #language: pt
+
             Funcionalidade: Autenticação do cliente na EBAC-SHOP
             Como cliente da EBAC-SHOP
             Quero fazer o login na plataforma

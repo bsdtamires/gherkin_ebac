@@ -1,3 +1,5 @@
+            #language: pt
+            
             Funcionalidade: Cadastro checkout na EBAC-SHOP
             Como cliente da EBAC-SHOP
             Quero concluir meu cadastro
