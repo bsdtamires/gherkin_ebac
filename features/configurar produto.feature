@@ -10,12 +10,12 @@
             Dado que estou na página de visualização do produto
 
             Esquema do Cenário: Seleção obrigatória e quantidade máxima
-            Quando seleciono a cor <Color>, o  tamanho <Size> e a quantidade <quantidade>
+            Quando seleciono a cor <color>, o  tamanho <size> e a quantidade <quantidade>
             E clico em comprar
             Então deve exibir a <mensagem>
 
             Exemplos:
-            | cor      | tamanho | quantidade | mensagem                               |
+            | color    | size    | quantidade | mensagem                               |
             | azul     | M       | 1          | Produto adicionado ao carrinho         |
             |          | G       | 2          | Selecione a cor                        |
             | vermelho |         | 3          | Selecione o tamanho                    |
